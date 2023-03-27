@@ -2,7 +2,7 @@
 
 ## Project Summary
 
-To test `SQL` knowledge and to utilis `pg8000` to incorparate the `SQL` code with `Python`.
+To test `SQL` knowledge and to utilise `pg8000` to incorporate the `SQL` code with `Python`.
 
 <br>
 
