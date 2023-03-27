@@ -1,0 +1,20 @@
+You are now connected to database "nc_flix" as user "abdurrahmannaveed".
+CREATE TABLE
+INSERT 0 8
+CREATE TABLE
+INSERT 0 20
+              title              |        genres        
+---------------------------------+----------------------
+ The Lion King II: Simba's Pride | family
+ Taxi Driver                     | drama, crime
+ Tron                            | family
+ The Breakfast Club              | comedy, drama
+ The Princess Switch             | comedy, romance
+ Catch Me If You Can             | comedy, drama, crime
+ Todo Sobre Mi Madre             | comedy, drama
+ The Care Bears Movie            | family
+ Highlander                      | fantasy, action
+ Ghostbusters II                 | family, comedy
+ Cleopatra                       | romance, drama
+(11 rows)
+

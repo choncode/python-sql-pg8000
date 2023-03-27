@@ -1,0 +1,5 @@
+You are now connected to database "nc_flix" as user "chonlee".
+
+ Here is the average rating of the genres we have in our database
+
+ Here is the average rating of genres stocked in our Manchester store

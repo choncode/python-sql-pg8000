@@ -1,0 +1,8 @@
+You are now connected to database "nc_flix" as user "abdurrahmannaveed".
+
+ The store with the highest total of sequels is:
+ store_id | sequel_count 
+----------+--------------
+        1 |            4
+(1 row)
+

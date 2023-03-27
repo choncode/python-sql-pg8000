@@ -1,0 +1,11 @@
+DROP DATABASE
+CREATE DATABASE
+You are now connected to database "nc_flix" as user "abdurrahmannaveed".
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+CREATE TABLE
+INSERT 0 4
+INSERT 0 9
+INSERT 0 25
+INSERT 0 37
